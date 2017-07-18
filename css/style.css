@@ -1,0 +1,28 @@
+body {
+    background-color: #FFD4F8;
+}
+
+h1 {
+    font-family: americantypewriter;
+    color: white;
+    
+}
+h2 {  
+    color:white;
+    font-family: americantypewriter;
+}
+P {
+    color:white;
+    
+}
+h4 {
+    color:white;
+}
+img {
+    background-color: white;
+    width:300px;
+    border: 90px #B9AFB3;
+    padding: 100px;
+    margin: 25px;
+
+}
